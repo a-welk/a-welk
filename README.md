@@ -1,4 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm Richmond Welk!  
+
+Welcome to my GitHub profile! I'm a passionate **Computer Science student** at **Virginia Commonwealth University**, with a strong foundation in **network engineering**, **machine learning**, and **databasing**. I enjoy solving problems, building efficient systems, and learning new technologies.
+
+---
+
+## 🛠️ **Technical Skills**
+
+### **Programming Languages**  
+- Python  
+- SQL
+- HTML/CSS
+- Java
+- C
+- JavaScript  
+- Bash 
+
+### **Frameworks and Tools**  
+- TensorFlow, PyTorch  
+- Scikit-learn, NumPy, Pandas  
+- PostgreSQL
+- MySQL
+- AWS
+- Git & GitHub  
+
+
+## 🎓 **Education & Certifications**  
+- **B.Sc. in Computer Science** – Virginia Commonwealth University (Expected Graduation: 2024)  
+- **Network Engineering Apprenticeship** – Richweb Inc.  
+
+---
+
+## 🌐 **Let's Connect!**  
+- [LinkedIn](https://www.linkedin.com/in/richmond-welk)  
+
+---
+
+Thank you for visiting my profile! I’m always open to new challenges and opportunities to collaborate. 🚀  
+
+
 
 <!--
 **a-welk/a-welk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
