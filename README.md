@@ -16,12 +16,17 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** at *
 - Bash 
 
 ### **Frameworks and Tools**  
-- TensorFlow, PyTorch  
-- Scikit-learn, NumPy, Pandas  
+- AWS (DynamoDB, S3, boto3)
+- Flask
+- APIs
 - PostgreSQL
 - MySQL
-- AWS
-- Git & GitHub  
+- Git & GitHub
+- Routing (OSPF, BGP, DHCP, Firewalling)
+- Jira
+- TensorFlow, PyTorch  
+- Scikit-learn, NumPy, Pandas  
+
 
 
 ## 🎓 **Education & Certifications**  
