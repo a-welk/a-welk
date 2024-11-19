@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Richmond Welk!  
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science student** at **Virginia Commonwealth University**, with a strong foundation in **network engineering**, **machine learning**, and **databasing**. I enjoy solving problems, building efficient systems, and learning new technologies.
+Welcome to my GitHub profile! I'm a passionate **Computer Science student** at **Virginia Commonwealth University**, with a strong foundation in **software development**, **machine learning**, **network engineering**, and **databasing**. I enjoy solving problems, building efficient systems, and learning new technologies.
 
 ---
 
