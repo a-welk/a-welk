@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** at *
 - Java
 - C
 - JavaScript  
-- Bash 
 
 ### **Frameworks and Tools**  
 - AWS (DynamoDB, S3, boto3)
