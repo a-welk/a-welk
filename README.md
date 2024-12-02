@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** at *
 - PostgreSQL
 - MySQL
 - Git & GitHub
+- Juniper
 - Routing (OSPF, BGP, DHCP, Firewalling)
 - Jira
 - TensorFlow, PyTorch  
