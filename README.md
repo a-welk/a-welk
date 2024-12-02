@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** at *
 
 
 ## 🎓 **Education & Certifications**  
-- **B.Sc. in Computer Science** – Virginia Commonwealth University (Expected Graduation: 2024)  
+- **B.Sc. in Computer Science** – Virginia Commonwealth University (Expected Graduation: December 2024)  
 - **Network Engineering Apprenticeship** – Richweb Inc.  
 
 ---
