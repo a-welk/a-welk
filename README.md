@@ -41,7 +41,9 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** at *
 ---
 
 Thank you for visiting my profile! I’m always open to new challenges and opportunities to collaborate. 🚀  
-
+<div align="center">
+  <img  src="https://github.com/a-welk/a-welk/blob/main/github-user-contribution.svg" alt="github contribution grid snake animation" />
+</div>
 
 
 <!--
